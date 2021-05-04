@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Pichaon
+- 👀 I’m interested in ...Front end dev...
+- 🌱 I’m currently learning ...React JS...Flutter...
+- 📫 How to reach me ...github.com/Pichaon...
+
+<!---
+Pichaon/Pichaon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
